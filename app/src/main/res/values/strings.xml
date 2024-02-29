@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">AndroidJunior</string>
+    <string name="Pulsame">Pulsame</string>
+    <string name="Name">Name</string>
+    <string name="join">Join</string>
+    <string name="escribe_tu_nombre">Escribe tu nombre</string>
+    <string name="height">Altura</string>
+    <string name="female">Mujer</string>
+    <string name="male">Hombre</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Your Result</string>
+    <string name="description">Descripcion</string>
+    <string name="recalculate">Recalcular</string>
+
+    <string name="error">Error</string>
+
+    <!-- Bajo Peso -->
+    <string name="bajo_peso">Bajo Peso</string>
+    <string name="bajo_peso_desc">Persona con un índice de masa corporal (IMC) inferior al rango normal.</string>
+
+    <!-- Normal -->
+    <string name="normal">Normal</string>
+    <string name="normal_desc">Persona con un índice de masa corporal (IMC) dentro del rango saludable.</string>
+
+    <!-- Sobrepeso -->
+    <string name="sobre_peso">Sobrepeso</string>
+    <string name="sobre_peso_desc">Persona con un índice de masa corporal (IMC) superior al rango normal.</string>
+
+    <!-- Obesidad -->
+    <string name="obesidad">Obesidad</string>
+    <string name="obesidad_desc">Persona con un índice de masa corporal (IMC) que indica obesidad.</string>
+    <string name="todo_title">Bienvenido</string>
+    <string name="todo_category">Categorias</string>
+    <string name="task">Tareas</string>
+    <string name="addTaskTitle">Añade la Tarea</string>
+    <string name="business">Negocios</string>
+    <string name="personal">Personal</string>
+    <string name="other">Otros</string>
+    <string name="addTask">Crear Tarea</string>
+    <string name="SuperHeroList">Super Hero List</string>
+    <string name="todoApp">TODO App</string>
+    <string name="IMCApp">IMC App</string>
+    <string name="saludarApp">SaludarApp</string>
+
+
+</resources>
