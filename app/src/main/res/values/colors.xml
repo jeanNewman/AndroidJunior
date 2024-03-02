@@ -34,7 +34,6 @@
 <!--    superHeroApp-->
 
     <color name="super_hero_text_name">#85BB68D1</color>
-
-
+    <color name="settings_text_title">#000000</color>
 
 </resources>

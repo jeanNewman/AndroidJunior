@@ -5,6 +5,7 @@ import android.graphics.Typeface
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import androidx.core.view.size
 import com.github.mikephil.charting.animation.Easing
 import com.jeandarwinnewmanrios.androidjunior.databinding.ActivityDetailSuperBinding
 import com.jeandarwinnewmanrios.androidjunior.superheroapp.models.ResultInfo
@@ -55,9 +56,12 @@ class DetailSuperActivity : AppCompatActivity() {
 
     fun createUIDetails(body: ResultInfo) {
       try {
-          val radarChart = binding.radarChart
 
-          //radarChart.setBackgroundColor(Color.rgb(60, 65, 82));
+
+          val radarChart = binding.radarChart
+          Log.i("trucutru",radarChart.size.toString())
+
+
           radarChart.description.isEnabled = false;
 
           radarChart.webLineWidth = 10f;

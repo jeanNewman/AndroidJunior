@@ -1,0 +1,3 @@
+<resources>
+    <attr name="settings_text_title" format="reference|color" />
+</resources>

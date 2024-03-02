@@ -43,6 +43,7 @@
     <string name="todoApp">TODO App</string>
     <string name="IMCApp">IMC App</string>
     <string name="saludarApp">SaludarApp</string>
+    <string name="settings">Settings</string>
 
 
 </resources>
